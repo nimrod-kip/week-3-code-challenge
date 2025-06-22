@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "Welcome to My Blog",
+      "author": "NIMROD",
+      "content": "This the content of my first post",
+      "image": "https://via.placeholder.com/150",
+      "id": 3
+    },
+    {
+      "title": "FootBall News",
+      "author": "Fabrizio Romanio",
+      "content": "Transfer news",
+      "image": "https://via.placeholder.com/150",
+      "id": 4
+    },
+    {
+      "title": "kidagaa kimemwozea",
+      "author": "ken walibora",
+      "content": "kiswahili tamthilia",
+      "image": "https://via.placeholder.com/150",
+      "id": 5
+    },
+    {
+      "title": "Dream chasser",
+      "author": "Joy chirii",
+      "content": "Hidden secrets ",
+      "image": "https://via.placeholder.com/150",
+      "id": 6
+    }
+  ]
+}
