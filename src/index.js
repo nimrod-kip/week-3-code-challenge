@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", main);
-const BASE_URL = "http://localhost:3000/posts";
+const BASE_URL = "https://json-server-xb5s.onrender.com/posts";
 let currentPostId = null;
 
 function main() {
